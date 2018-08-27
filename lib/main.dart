@@ -132,7 +132,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       title: 'Flutter Demo',
-      // theme: ThemeData(fontFamily:'phetsarath_ot'),
+      theme: ThemeData(fontFamily:'phetsarath_ot'),
       home: Scaffold(
         appBar: AppBar(
           title: Text('ພຣະທາດຫຼວງວຽງຈັນ'),
